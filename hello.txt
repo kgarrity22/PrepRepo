@@ -1,2 +1,5 @@
-
 #delete text
+=======
+## updated hello.txt
+## goodbye txt
+>>>>>>> master
